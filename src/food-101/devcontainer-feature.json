@@ -1,0 +1,10 @@
+{
+    "name": "Food 101",
+    "id": "food-101",
+    "version": "0.0.1",
+    "description": "Download food 101",
+
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
